@@ -1,0 +1,11 @@
+# basic options
+title: rrtUK devlog
+author: red bullion
+email: r3d@redbullion.com
+description: daily log for rrtUK
+twitter_username: tbd
+github_username:  rrtUK
+
+# Build settings
+markdown: kramdown
+theme: minima
